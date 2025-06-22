@@ -10,8 +10,18 @@
         "type": "image"
     },
     {
-        "title": "murugan03",
-        "file": "murugan03.jpg",
+        "title": "Flower01",
+        "file": "Flower01.jpeg",
+        "type": "image"
+    },
+    {
+        "title": "MuvaraiVendran01",
+        "file": "MuvaraiVendran01.jpeg",
+        "type": "image"
+    },
+    {
+        "title": "MuvaraiVendran02",
+        "file": "MuvaraiVendran02.jpg",
         "type": "image"
     },
     {
@@ -28,5 +38,10 @@
         "title": "Mithrasya",
         "file": "Mithrasya.ogg",
         "type": "audio"
+    },
+    {
+        "title": "Mrudhangam01",
+        "file": "Mrudhangam01.mp4",
+        "type": "video"
     }  
 ]
