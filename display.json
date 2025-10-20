@@ -65,6 +65,21 @@
         "type": "audio"
     },
     {
+        "title": "Subrahmanya-bhujangam 1_5",
+        "file": "subBujangam_part0-5.mp3",
+        "type": "audio"
+    },
+    {
+        "title": "Subrahmanya-bhujangam 6_10",
+        "file": "subBujangam_part6-10.mp3",
+        "type": "audio"
+    },
+    {
+        "title": "Subrahmanya-bhujangam 11_15",
+        "file": "subBujangam_part11-15.mp3",
+        "type": "audio"
+    },
+    {
         "title": "Mrudhangam01",
         "file": "Mrudhangam01.mp4",
         "type": "video"
