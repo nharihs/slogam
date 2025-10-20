@@ -8,6 +8,16 @@
         "title": "murugan02",
         "file": "murugan02.jpeg",
         "type": "image"
+    },
+      {
+        "title": "Kanda_Sashti_Kavacham",
+        "file": "Kanda_Sashti_Kavacham.mp3",
+        "type": "audio"
+    },
+    {
+        "title": "Kandha_Guru_Kavasam",
+        "file": "Kandha_Guru_Kavasam.mp3",
+        "type": "audio"
     }
 ]
     
